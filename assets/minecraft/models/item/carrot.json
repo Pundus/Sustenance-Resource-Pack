@@ -5,6 +5,7 @@
     },
 	"overrides": [
 	{ "predicate": { "custom_model_data": 101}, "model": "item/pcm_sustenance/cheese" },
-	{ "predicate": { "custom_model_data": 102}, "model": "item/stove" }
+	{ "predicate": { "custom_model_data": 102}, "model": "item/stove" },
+	{ "predicate": { "custom_model_data": 103}, "model": "item/pcm_sustenance/tortilla" }
 	]
 }
