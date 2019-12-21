@@ -2,5 +2,8 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/dried_kelp"
-    }
+    },
+	"overrides": [
+	{ "predicate": { "custom_model_data": 105}, "model": "item/pcm_sustenance/potato_chips" }
+	]
 }

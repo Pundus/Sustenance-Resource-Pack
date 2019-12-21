@@ -4,6 +4,8 @@
         "layer0": "item/pumpkin_pie"
     },
 	"overrides": [
-	{ "predicate": { "custom_model_data": 104}, "model": "item/pcm_sustenance/grilled_cheese" }
+	{ "predicate": { "custom_model_data": 104}, "model": "item/pcm_sustenance/grilled_cheese" },
+	{ "predicate": { "custom_model_data": 107}, "model": "item/pcm_sustenance/baguette" },
+	{ "predicate": { "custom_model_data": 108}, "model": "item/pcm_sustenance/cookie_pile" }
 	]
 }

@@ -2,5 +2,8 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/suspicious_stew"
-    }
+		},
+    "overrides": [
+		{ "predicate": { "custom_model_data": 106}, "model": "item/pcm_sustenance/seaweed_soup" }
+	]
 }
