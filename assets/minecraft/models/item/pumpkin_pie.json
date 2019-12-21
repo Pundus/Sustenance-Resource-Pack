@@ -2,5 +2,8 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/pumpkin_pie"
-    }
+    },
+	"overrides": [
+	{ "predicate": { "custom_model_data": 104}, "model": "item/pcm_sustenance/grilled_cheese" }
+	]
 }
