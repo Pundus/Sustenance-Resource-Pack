@@ -2,5 +2,8 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/cooked_beef"
-    }
+    },
+	"overrides": [
+	{ "predicate": { "custom_model_data": 111}, "model": "item/pcm_sustenance/taco" }
+	]
 }
